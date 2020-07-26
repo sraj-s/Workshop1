@@ -1,0 +1,27 @@
+.main{
+    background-color:red;
+    margin:auto;
+    text-align:center;
+
+
+
+}
+.banner{
+    width:100%;
+}
+#pfp{
+    width: 200px;
+}
+.contacts{
+    color: white
+}
+.seperator{
+    border:solid;
+    margin-bottom:30px;
+}
+h4{
+    text-decoraton: underline;
+}
+li{
+    list-style:none;
+}
